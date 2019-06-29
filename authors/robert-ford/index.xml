@@ -39,9 +39,7 @@
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
       
       <guid>http://yaqingwang.github.io/publication/conference-paper/index_1/</guid>
-      <description>
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
@@ -54,69 +52,16 @@
 &lt;/div&gt;
 
 &lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;title: &amp;ldquo;An example conference paper 2&amp;rdquo;
-authors:
-- admin
-- Robert Ford
-date: &amp;ldquo;2013-07-01T00:00:00Z&amp;rdquo;
-doi: &amp;ldquo;&amp;rdquo;&lt;/p&gt;
-
-&lt;h1 id=&#34;schedule-page-publish-date-not-publication-s-date&#34;&gt;Schedule page publish date (NOT publication&amp;rsquo;s date).&lt;/h1&gt;
-
-&lt;p&gt;publishDate: &amp;ldquo;2017-01-01T00:00:00Z&amp;rdquo;&lt;/p&gt;
-
-&lt;h1 id=&#34;publication-type&#34;&gt;Publication type.&lt;/h1&gt;
-
-&lt;h1 id=&#34;legend-0-uncategorized-1-conference-paper-2-journal-article&#34;&gt;Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;&lt;/h1&gt;
-
-&lt;h1 id=&#34;3-preprint-working-paper-4-report-5-book-6-book-section&#34;&gt;3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;&lt;/h1&gt;
-
-&lt;h1 id=&#34;7-thesis-8-patent&#34;&gt;7 = Thesis; 8 = Patent&lt;/h1&gt;
-
-&lt;p&gt;publication_types: [&amp;ldquo;1&amp;rdquo;]&lt;/p&gt;
-
-&lt;h1 id=&#34;publication-name-and-optional-abbreviated-publication-name&#34;&gt;Publication name and optional abbreviated publication name.&lt;/h1&gt;
-
-&lt;p&gt;publication: In &lt;em&gt;Source Themes Conference&lt;/em&gt;
-publication_short: In &lt;em&gt;STC&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-
-&lt;h1 id=&#34;summary-an-optional-shortened-abstract&#34;&gt;Summary. An optional shortened abstract.&lt;/h1&gt;
-
-&lt;p&gt;summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.&lt;/p&gt;
-
-&lt;p&gt;tags:
-- Source Themes
-featured: true&lt;/p&gt;
-
-&lt;p&gt;links:
-- name: Custom Link
-  url: &lt;a href=&#34;http://example.org&#34; target=&#34;_blank&#34;&gt;http://example.org&lt;/a&gt;
-url_pdf: &lt;a href=&#34;http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf&#34; target=&#34;_blank&#34;&gt;http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf&lt;/a&gt;
-url_code: &amp;lsquo;#&amp;rsquo;
-url_dataset: &amp;lsquo;#&amp;rsquo;
-url_poster: &amp;lsquo;#&amp;rsquo;
-url_project: &amp;ldquo;
-url_slides: &amp;ldquo;
-url_source: &amp;lsquo;#&amp;rsquo;
-url_video: &amp;lsquo;#&amp;rsquo;&lt;/p&gt;
-
-&lt;h1 id=&#34;featured-image&#34;&gt;Featured image&lt;/h1&gt;
-
-&lt;h1 id=&#34;to-use-add-an-image-named-featured-jpg-png-to-your-page-s-folder&#34;&gt;To use, add an image named &lt;code&gt;featured.jpg/png&lt;/code&gt; to your page&amp;rsquo;s folder.&lt;/h1&gt;
-
-&lt;p&gt;image:
-  caption: &amp;lsquo;Image credit: &lt;a href=&#34;https://unsplash.com/photos/pLCdAaMFLTE&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Unsplash&lt;/strong&gt;&lt;/a&gt;&amp;lsquo;
-  focal_point: &amp;ldquo;&amp;rdquo;
-  preview_only: false&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example conference paper 2</title>
+      <link>http://yaqingwang.github.io/publication/conference-paper/index_2/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://yaqingwang.github.io/publication/conference-paper/index_2/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
