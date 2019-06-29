@@ -25,7 +25,7 @@
   
   <url>
     <loc>http://yaqingwang.github.io/authors/admin/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -41,7 +41,7 @@
   
   <url>
     <loc>http://yaqingwang.github.io/authors/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -64,18 +64,8 @@
   
   <url>
     <loc>http://yaqingwang.github.io/tags/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://yaqingwang.github.io/post/jupyter/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://yaqingwang.github.io/post/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -115,17 +105,6 @@
     <loc>http://yaqingwang.github.io/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://yaqingwang.github.io/tags/academic/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://yaqingwang.github.io/post/getting-started/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
